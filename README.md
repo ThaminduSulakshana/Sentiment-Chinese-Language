@@ -4,3 +4,7 @@
 For a quick overview [Video](https://drive.google.com/file/d/17HqZTTDZVszN5Srn6nkpoyPzbvWXm_2_/view?usp=sharing). You can access the live version of this web application [here](https://sentiment-analysis-for-the-chinese.onrender.com/). 
 
 ![Image Alt Text](https://github.com/ThaminduSulakshana/Sentiment-Chinese-Language/blob/main/Screenshot%20(603).png)
+
+
+- &#x1F680; Implemented new feature X.
+- &#x1F4BB; Fixed issue with responsive design.
